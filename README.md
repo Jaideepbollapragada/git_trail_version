@@ -1,1 +1,3 @@
-# git_trail_version
+This is my index page.
+
+Today Iam Teaching git session
